@@ -17,7 +17,7 @@ This repository aims to provide a comprehensive set of exploratory notebooks to 
 Notebooks demonstrating how to run inference with popular VLMs:
 - Model loading and setup
 - Prompt engineering for vision tasks
-- Batch processing and efficiency techniques
+- Application explorations
 
 ### Training
 Notebooks covering training and fine-tuning VLMs:
@@ -25,11 +25,6 @@ Notebooks covering training and fine-tuning VLMs:
 - Fine-tuning strategies
 - Training monitoring and evaluation
 
-### Applications
-Example applications and use cases:
-- Image captioning and understanding
-- Visual question answering
-- Multimodal reasoning tasks
 
 ## Getting Started
 
